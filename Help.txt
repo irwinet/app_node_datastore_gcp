@@ -1,0 +1,10 @@
+Cloud Datastore
+    Notas:
+        - Firestore es la versión más reciente de Datastore
+        - Habilitar “Cloud Datastore API”.
+        - Cloud Firestore es la próxima generación de Cloud Datastore.
+        - Puedes usar Cloud Firestore en modo nativo o en modo Datastore.
+
+    Docs:
+        - https://cloud.google.com/datastore/docs/store-query-data?hl=es-419    
+        - https://cloud.google.com/nodejs/docs/reference/datastore/latest#quickstart
