@@ -8,3 +8,6 @@ Cloud Datastore
     Docs:
         - https://cloud.google.com/datastore/docs/store-query-data?hl=es-419    
         - https://cloud.google.com/nodejs/docs/reference/datastore/latest#quickstart
+
+    Example Repository:
+        - https://gitlab.falabella.tech/tottus/rtl/schn/trmg/ds/trazability/gcp/tot-whmg-fdo-traz
